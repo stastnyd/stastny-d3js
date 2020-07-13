@@ -1,0 +1,19 @@
+[
+    {
+        "name":"Pizza",
+        "cost": 300
+
+    },
+
+    {
+        "name":"Pancakes",
+        "cost": 250
+
+    },
+
+    {
+        "name":"Barbeque",
+        "cost": 1000
+
+    }
+]

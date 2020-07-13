@@ -1,0 +1,19 @@
+[
+    {
+        "name":"Pizza",
+        "orders": 300
+
+    },
+
+    {
+        "name":"Pancakes",
+        "orders": 250
+
+    },
+
+    {
+        "name":"Soup",
+        "orders": 1000
+
+    }
+]
